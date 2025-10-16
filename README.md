@@ -1,8 +1,7 @@
 # ox_project
 the game o/x
 
-### saif  :  #It may be made up of two individuals, one x and the other o, and the first one must make rows o or x, but they must be either length or width, or a row that descends gradually.
-
+### saif  :  #It is a game consisting of two players, one is x and the other is o. The first one to complete the o or x rows in length, width, or a gradually descending row is the winner.
 ### Youssef 
 
 ### ammar
