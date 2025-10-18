@@ -28,6 +28,7 @@ Once you press “Run”, the game starts and displays a grid where players take
 
 
 ### Anas : 
+![screen ](https://m.media-amazon.com/images/I/713x5OsSAiL._AC_SX679_.jpg)
 
 
 ### Seif : 
@@ -46,7 +47,7 @@ The game checks automatically for a winner after each turn
 
 ### ammar
  
-### Anas
+### Anas 
 
 ### Sara
 ## Ahmed
