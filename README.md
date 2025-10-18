@@ -28,7 +28,7 @@ Once you press “Run”, the game starts and displays a grid where players take
 
 
 ### Anas : 
-!https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.sa%2F-%2Fen%2FNUTTA-TicTacToe-Friends-Backyard-Decorative%2Fdp%2FB09MFJ9WJ1&psig=AOvVaw3q_H2u2-vbTAFKf_nwlUnC&ust=1760898323610000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiPgsqvrpADFQAAAAAdAAAAABAK
+
 
 ### Seif : 
 ![Uploading image.png…]()
