@@ -23,7 +23,7 @@ Once you press “Run”, the game starts and displays a grid where players take
 ## Team Members
 Saif - Youssef - Ammar - Anas - Sara - Ahmed
 
-
+---------------------------------------------------------------------
 Restart to play again.
 The game checks automatically for a winner after each turn
 ### saif  :  #It is a game consisting of two players, one is x and the other is o. The first one to complete the o or x rows in length, width, or a gradually descending row is the winner.
