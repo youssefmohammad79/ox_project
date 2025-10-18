@@ -21,7 +21,8 @@ Once you press “Run”, the game starts and displays a grid where players take
 3- The first player to make three in a row wins!
 ![Game Screenshot](https://github.com/youssefmohammad79/ox_project/blob/main/Screenshot%202025-07-06%20at%207.11.48%E2%80%AFPM.png)
 ### Ammar :
-![Game Screenshot](https://papergames.io/en/assets/games/tictactoe/thumbnail.png)
+![Game Screenshot](![Game Screenshot](https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=204,height=204,fit=cover,f=auto/d07c1db617a36898b5e8c71013d228d11003eb36d7150b7abfe988fe097c7d66/tic-tac-toe-3.png)
+)
 
 
 
