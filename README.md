@@ -36,5 +36,5 @@ The game checks automatically for a winner after each turn
 ### Sara
 ## Ahmed
 
-# how the program works ??
-## the program works on simple xo game which makes a frendily game betwen us it works when you press run
+# How the program works ??
+the program works on simple xo game which makes a frendily game betwen us it works when you press run
