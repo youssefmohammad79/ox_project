@@ -1,4 +1,4 @@
-# OX Project – Tic-Tac-Toe Game
+<img width="2438" height="1598" alt="image" src="https://github.com/user-attachments/assets/6f0af2f0-2d13-481e-8b7c-09b31e54e75d" /># OX Project – Tic-Tac-Toe Game
 ## Overview
 This project is a simple Tic-Tac-Toe (O/X) game designed for two players.
 One player uses X and the other uses O.
@@ -23,7 +23,9 @@ Once you press “Run”, the game starts and displays a grid where players take
 ### Ammar :
 
 
-### Anas :
+### Anas : 
+![<img width="2438" height="1598" alt="image" src="https://github.com/user-attachments/assets/0a4af20b-504c-4f1f-9beb-a2eb0b04ace4" />
+
 
 ### Seif : 
 
