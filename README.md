@@ -27,7 +27,7 @@ Once you press “Run”, the game starts and displays a grid where players take
 
 
 ### Anas : 
-![<img width="2438" height="1598" alt="image" src="https://github.com/user-attachments/assets/0a4af20b-504c-4f1f-9beb-a2eb0b04ace4" />
+<img width="2438" height="1598" alt="image" src="https://github.com/user-attachments/assets/0a4af20b-504c-4f1f-9beb-a2eb0b04ace4" />
 
 
 ### Seif : 
