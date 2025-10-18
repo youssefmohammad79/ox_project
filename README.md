@@ -19,8 +19,8 @@ Once you press “Run”, the game starts and displays a grid where players take
 1- Click Run to start the game.
 2- Players take turns clicking cells to place their X or O.
 3- The first player to make three in a row wins!
-
-## Team Members
+![Game Screenshot] (https://github.com/youssefmohammad79/ox_project/blob/main/Screenshot%202025-07-06%20at%207.11.48%E2%80%AFPM.png)
+## Team Member
 Saif - Youssef - Ammar - Anas - Sara - Ahmed
 
 ---------------------------------------------------------------------
