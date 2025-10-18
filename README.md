@@ -31,7 +31,7 @@ Once you press “Run”, the game starts and displays a grid where players take
 
 
 ### Seif : 
-![Game Screenshot]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fpapergames.io%2Fen%2Ftic-tac-toe&psig=AOvVaw0cKG-VzLdcabeXq1diLTZx&ust=1760897785161000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDI1dytrpADFQAAAAAdAAAAABAE](https://papergames.io/en/tic-tac-toe).svg)
+![Game Screenshot](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1920px-Tic_tac_toe.svg.png)
 
 
 ## Team Member
