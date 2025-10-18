@@ -21,6 +21,9 @@ Once you press “Run”, the game starts and displays a grid where players take
 3- The first player to make three in a row wins!
 ![Game Screenshot](https://github.com/youssefmohammad79/ox_project/blob/main/Screenshot%202025-07-06%20at%207.11.48%E2%80%AFPM.png)
 ### Ammar :
+![Game Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpapergames.io%2Fen%2Ftic-tac-toe&psig=AOvVaw0cKG-VzLdcabeXq1diLTZx&ust=1760897785161000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDI1dytrpADFQAAAAAdAAAAABAE)
+
+
 
 
 ### Anas : 
